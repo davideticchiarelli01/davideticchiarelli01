@@ -25,6 +25,7 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 - **Programming Languages**: C++, Java, PHP, JavaScript, TypeScript, jQuery, Kotlin, Dart
 - **Frameworks**: Laravel, Flutter
 - **Databases**: MySQL, PostgreSQL, Firebase, DynamoDB
+- **Other**: LaTeX, Microsoft Project, PowerBi, Tableu, Qlik
   
 --- 
 ### 📫 How to Reach Me
@@ -33,8 +34,8 @@ Feel free to connect with me through any of the following:
 
 - **Email**: davideticchiarelli01@gmail.com
 - **LinkedIn**: [davideticchiarelli](www.linkedin.com/in/davideticchiarelli)
-- **GitHub**: [davideticchiarelli01](https://github.com/davideticchiarelli01)
 - **Instagram**: [_ticchiaaa](www.instagram.com/_ticchiaaa)
+- **GitHub**: [davideticchiarelli01](https://github.com/davideticchiarelli01)
 
 👯 Let's collaborate!
 
