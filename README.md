@@ -14,7 +14,7 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 - Computer Vision
 - Deep Learning
 
-💼 Internship Experience: I completed a 6-month intership at [Infoservice](https://www.infoservicenet.it/), where I contributed to the development of a fire safety management software, gaining hands-on experience in software development and project implementation.
+💼 Internship Experience: I completed a 6-month intership at [Infoservice](https://www.infoservicenet.it/) as a **Full Stack Developer**, where I contributed to the development of a fire safety management software, gaining hands-on experience in software development and project implementation.
 
 🌱 I’m always learning! Currently, I’m diving into **TypeScript programming** through the development of a library designed to facilitate the creation and management of **tab systems** in **web applications**.
 
