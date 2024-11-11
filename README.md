@@ -5,6 +5,7 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 ---
 
 ### 🚀 About Me
+📄[Curriculum Vitae](https://github.com/user-attachments/files/17704624/CV_Ticchiarelli_Davide__ENG_.1.pdf)
 
 🎓  I’m currently studying Computer and Automation Engineering at the Polytechnic University of Ancona (Italy), where I explore various topics, including: **Project Management, Operations Research, Big Data, Machine Learning, Computer Vision** and **Deep Learning**.
 
