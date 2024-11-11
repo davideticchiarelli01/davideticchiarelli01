@@ -25,7 +25,7 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 - **Programming Languages**: C++, Java, PHP, JavaScript, TypeScript, jQuery, Kotlin, Dart
 - **Frameworks**: Laravel, Flutter
 - **Databases**: MySQL, PostgreSQL, Firebase, DynamoDB
-- **Other**: LaTeX, Microsoft Project, PowerBi, Tableu, Qlik
+- **Other**: LaTeX, Microsoft Project, PowerBI, Tableu, Qlik
   
 --- 
 ### 📫 How to Reach Me
