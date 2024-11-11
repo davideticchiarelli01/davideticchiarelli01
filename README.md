@@ -6,13 +6,7 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 
 ### 🚀 About Me
 
-🎓  I’m currently studying Computer and Automation Engineering at the Polytechnic University of Ancona (Italy), where I explore various topics, including:
-- Project Management
-- Operations Research
-- Big Data
-- Machine Learning
-- Computer Vision
-- Deep Learning
+🎓  I’m currently studying Computer and Automation Engineering at the Polytechnic University of Ancona (Italy), where I explore various topics, including: **Project Management, Operations Research, Big Data, Machine Learning, Computer Vision** and **Deep Learning**.
 
 💼 Internship Experience: I completed a 6-month intership at [Infoservice](https://www.infoservicenet.it/) as a **Full Stack Developer**, where I contributed to the development of a fire safety management software, gaining hands-on experience in software development and project implementation.
 
@@ -22,10 +16,10 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 
 ### 🔧 Skills
 
-- **Programming Languages**: C++, Java, PHP, JavaScript, TypeScript, jQuery, Kotlin, Dart
+- **Programming Languages**: C++, Java, PHP, HTML, CSS, JavaScript, TypeScript, jQuery, Kotlin, Dart
 - **Frameworks**: Laravel, Flutter
 - **Databases**: MySQL, PostgreSQL, Firebase, DynamoDB
-- **Other**: LaTeX, Microsoft Project, PowerBI, Tableu, Qlik
+- **Other**: LaTeX, Microsoft Project, PowerBI, Tableau, Qlik
   
 --- 
 ### 📫 How to Reach Me
