@@ -27,9 +27,9 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 
 Feel free to connect with me through any of the following:
 
-- **Email**: davideticchiarelli01@gmail.com
-- **LinkedIn**: [davideticchiarelli](www.linkedin.com/in/davideticchiarelli)
-- **Instagram**: [_ticchiaaa](www.instagram.com/_ticchiaaa)
+- **Email**: [davideticchiarelli01@gmail.com](mailto:davideticchiarelli01@gmail.com)
+- **LinkedIn**: [davideticchiarelli](https://www.linkedin.com/in/davideticchiarelli)
+- **Instagram**: [_ticchiaaa](https://www.instagram.com/_ticchiaaa)
 - **GitHub**: [davideticchiarelli01](https://github.com/davideticchiarelli01)
 
 👯 Let's collaborate!
