@@ -5,22 +5,20 @@ I have a **Bachelor's degree in Computer and Automation Engineering** from the P
 ---
 
 ### 🚀 About Me
-📄[Curriculum Vitae](https://github.com/user-attachments/files/17705601/CV_Ticchiarelli_Davide.pdf)
+📄[Curriculum Vitae](https://github.com/user-attachments/files/19959219/CV_Ticchiarelli_Davide__ENG_.pdf)
 
 🎓  I’m currently studying Computer and Automation Engineering at the Polytechnic University of Ancona (Italy), where I explore various topics, including: **Project Management, Operations Research, Big Data, Machine Learning, Computer Vision** and **Deep Learning**.
 
 💼 Internship Experience: I completed a 6-month intership at [Infoservice](https://www.infoservicenet.it/) as a **Full Stack Developer**, where I contributed to the development of a fire safety management software, gaining hands-on experience in software development and project implementation.
 
-🌱 I’m always learning! Currently, I’m diving into **TypeScript programming** through the development of a library designed to facilitate the creation and management of **tab systems** in **web applications**.
-
 ---
 
 ### 🔧 Skills
 
-- **Programming Languages**: C++, Java, PHP, HTML, CSS, JavaScript, TypeScript, jQuery, Kotlin, Dart
-- **Frameworks**: Laravel, Flutter
+- **Programming Languages**: C++, Java, Python, PHP, HTML, CSS, JavaScript, TypeScript, jQuery, Kotlin, Dart
+- **Frameworks & Libraries**: Laravel, Flutter, Express.js, Node.js, PySpark, Pandas, NumPy, Keras, PyTorch, Scikit-learn
 - **Databases**: MySQL, PostgreSQL, Firebase, DynamoDB
-- **Other**: LaTeX, Microsoft Project, PowerBI, Tableau, Qlik
+- **Other Tools**: LaTeX, Microsoft Project, PowerBI, Tableau, Qlik
   
 --- 
 ### 📫 How to Reach Me
